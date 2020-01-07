@@ -1,0 +1,13 @@
+Randy Truong
+CS171
+Assignment 4
+1. Sequence B could not occur.
+2. See Java files.
+3. a) Insertion sort runs faster for an array with all identical numbers
+* Worst case: N2
+* Best case: N
+b) Both have a run time of N2 compares, but selection sort is faster because it makes fewer exchanges.
+* Worst case: N2
+* Best case: N2
+* Selection sort makes N exchanges and insertion sort makes N2 exchanges
+4. Quadratic time
